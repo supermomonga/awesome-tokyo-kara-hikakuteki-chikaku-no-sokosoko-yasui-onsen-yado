@@ -15,13 +15,13 @@
 
 | 宿 | 値段 | 温泉 | インターネット | 備考 |
 |:---|:-----|:-----|:---------------|:-----|
-| [ペンション木馬](http://www.pension-mokuba.com/plan/index.html)<br>開発合宿プラン | 16,400円/2泊 | 充実（プラン詳細参考） | プラン詳細にレポートあり |
+| [ペンション木馬](http://www.pension-mokuba.com/plan/index.html)<br>開発合宿プラン | 16,400円/2泊 | あり 露天なし | 充実（プラン詳細参考） | 洋室のみ<br>プラン詳細にレポートあり |
 
 ### 群馬県 伊東（東京駅 <-> 伊東駅 約1時間15分）
 
 | 宿 | 値段 | 温泉 | インターネット | 備考 |
 |:---|:-----|:-----|:---------------|:-----|
-| [山喜旅館](http://www.ito-yamaki.jp/plan.html)<br>研修・ゼミプラン | 6480円/泊 2食 | 無線LANルータ設置 | [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html) [@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html) [@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku) [IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html) [2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
+| [山喜旅館](http://www.ito-yamaki.jp/plan.html)<br>研修・ゼミプラン | 6480円/泊 2食 | 24H 露天なし | 無線LANルータ設置 | [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html) [@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html) [@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku) [IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html) [2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
 
 ### 静岡県 熱海（東京駅 <-> 熱海駅 約40分）
 
