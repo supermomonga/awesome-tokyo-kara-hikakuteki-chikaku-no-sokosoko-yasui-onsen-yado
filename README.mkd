@@ -21,7 +21,7 @@
 
 | 宿 | 値段 | 温泉 | インターネット | 備考 |
 |:---|:-----|:-----|:---------------|:-----|
-| [山喜旅館](http://www.ito-yamaki.jp/plan.html)<br>研修・ゼミプラン | 6480円/泊 2食 | 24H 露天なし | 無線LANルータ設置 | [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html)<br>[@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html) [@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku)<br>[IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html)<br>[2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
+| [山喜旅館](http://www.ito-yamaki.jp/plan.html)<br>研修・ゼミプラン | 6480円/泊 2食 | 24H 露天なし | 無線LANルータ設置 | [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html)<br>[@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html)<br>[@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku)<br>[IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html)<br>[2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
 
 ### 静岡県 熱海（東京駅 <-> 熱海駅 約40分）
 
