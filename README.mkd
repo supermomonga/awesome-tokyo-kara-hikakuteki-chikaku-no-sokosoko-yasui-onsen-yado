@@ -7,13 +7,14 @@
 
 ### 草津
 
-- [民宿　美山](http://www.jalan.net/yad351135/?contHideFlg=1&lrgOsnCd=50092&stayDay=&stayCount=1&rootCd=2401&dateUndecided=1&stayMonth=&screenId=UWW1402&roomCount=1&callbackHistFlg=1&stayYear=&childPriceFlg=0,0,0,0,0&distCd=03&roomCrack=500000&adultNum=5&afCd=01&careOnsen=1)
+
+- [民宿　美山](http://minsyuku-miyama.com/)
   - 5092 円/泊〜
   - 露天ではない
-- [温泉ビジネスホテル　アゼリア](http://www.jalan.net/yad300018/?screenId=UWW3101&stayCount=1&yadNo=300018&rootCd=2401&smlCd=090205&childPriceFlg=0,0,0,0,0&distCd=03&contHideFlg=1&afCd=01&careOnsen=1&yadoDetailMode=1&stayYear=&stayMonth=&stayDay=&dateUndecided=1&callbackHistFlg=1&roomCount=1&adultNum=5&roomCrack=500000)
+- [温泉ビジネスホテル　アゼリア](http://www.jalan.net/yad300018/)
   - 3,703 円/泊〜
   - 露天ではない
-- [草津温泉　菊水荘](http://www.jalan.net/yad395648/?screenId=UWW3101&yadNo=395648&rootCd=2401&smlCd=090205&childPriceFlg=0,0,0,0,0&distCd=03&afCd=01&contHideFlg=1&careOnsen=1&yadoDetailMode=1&stayYear=&stayMonth=&stayDay=&dateUndecided=1&callbackHistFlg=1&roomCount=1&adultNum=5&roomCrack=500000)
+- [草津温泉　菊水荘](http://kikusuisou.com/)
   - 4,500 円/泊〜
   - 露天ではない
 
