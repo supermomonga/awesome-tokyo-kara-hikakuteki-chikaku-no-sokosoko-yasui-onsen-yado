@@ -3,16 +3,29 @@
 
 # Awesome-東京から比較的近くのそこそこ安い温泉宿
 
-### 箱根
-
 ### 草津
 
 | 宿 | 値段 | 温泉 | インターネット | 備考 |
 |:---|:-----|:-----|:---------------|:-----|
-| [民宿 美山](http://minsyuku-miyama.com/)                       | 5,092 円/泊〜 | あり 露天なし | 2階客室から1階事務所のWiFiに接続 |  |
-| [温泉ビジネスホテル アゼリア](http://www.jalan.net/yad300018/) | 3,703 円/泊〜 | あり 露天なし | 無線LANルータが屋内に1つ |  |
-| [草津温泉 菊水荘](http://kikusuisou.com/)                      | 4,500 円/泊〜 | あり 露天なし | [FREESPOT](https://freespot.com/map/tenpo.php?n=7336) |  |
+| [民宿 美山](http://minsyuku-miyama.com/)                       | 5,092円〜/泊 | あり 露天なし | 2階客室から1階事務所のWiFiに接続 |  |
+| [温泉ビジネスホテル アゼリア](http://www.jalan.net/yad300018/) | 3,703円〜/泊 | あり 露天なし | 無線LANルータが屋内に1つ |  |
+| [草津温泉 菊水荘](http://kikusuisou.com/)                      | 4,500円〜/泊 | あり 露天なし | [FREESPOT](https://freespot.com/map/tenpo.php?n=7336) |  |
 
-### 鬼怒川
+### 水上（2時間前後）
 
+| 宿 | 値段 | 温泉 | インターネット | 備考 |
+|:---|:-----|:-----|:---------------|:-----|
+| [ペンション木馬](http://www.pension-mokuba.com/plan/index.html)開発合宿プラン | 16,400円/2泊 | 充実（プラン詳細参考） | プラン詳細に各社開発合宿レポートあり |
 
+### 群馬県 伊東（2時間前後）
+
+| 宿 | 値段 | 温泉 | インターネット | 備考 |
+|:---|:-----|:-----|:---------------|:-----|
+| [山喜旅館](http://www.ito-yamaki.jp/plan.html)研修・ゼミプラン | 6480円/泊 2食 | 無線LANルータ設置 | レポート: [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html) [@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html) [@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku) [IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html) [2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
+
+### 静岡県 熱海（東京駅 <-> 熱海駅 約40分）
+
+| 宿 | 値段 | 温泉 | インターネット | 備考 |
+|:---|:-----|:-----|:---------------|:-----|
+| [山木旅館]()食事なしプラン | 7,000円〜/泊      | 貸切風呂無料温泉三昧 | レポートによると回線完備 | [CakePHP温泉部 1](https://web.archive.org/web/20140801055612/http://1-byte.jp/2011/03/03/review_yamaki_in_atami/) [CakePHP温泉部 2](http://hideichi.com/archives/318) |
+| [山木旅館]()30日以上前予約 | 12,000円〜/泊 2食 | 24H温泉 貸切風呂無料 | （同上） | （同上） |
