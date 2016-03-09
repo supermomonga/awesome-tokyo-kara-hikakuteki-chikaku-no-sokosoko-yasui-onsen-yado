@@ -7,11 +7,11 @@
 
 | 場所 | 室 | 宿 | 値段 | 温泉 | インターネット | 備考 |
 |:-----|:---|:---|:-----|:-----|:---------------|:-----|
-| 熱海 | 和 | [山木旅館](http://www.yamakiryokan.co.jp/)<br>食事なしプラン | 7,000円〜/泊      | 貸切風呂無料温泉三昧 | レポートによると回線完備 | [CakePHP温泉部 1](https://web.archive.org/web/20140801055612/http://1-byte.jp/2011/03/03/review_yamaki_in_atami/)<br>[CakePHP温泉部 2](http://hideichi.com/archives/318) |
-| 熱海 | 和 | [山木旅館](http://www.yamakiryokan.co.jp/)<br>30日以上前予約 | 12,000円〜/泊 2食 | 24H温泉 貸切風呂無料 | （同上） | （同上） |
-| 伊東 | 和 | [山喜旅館](http://www.ito-yamaki.jp/plan.html)<br>研修・ゼミプラン | 6480円/泊 2食 | 24H 露天なし | 無線LANルータ設置 | [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html)<br>[@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html)<br>[@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku)<br>[IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html)<br>[2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
-| 草津 | 和 | [民宿 美山](http://minsyuku-miyama.com/)                       | 5,092円〜/泊 | あり 露天なし | 2階客室から1階事務所のWiFiに接続 |  |
-| 草津 | 和 | [温泉ビジネスホテル アゼリア](http://www.jalan.net/yad300018/) | 3,703円〜/泊 | あり 露天なし | 無線LANルータが屋内に1つ |  |
+| 熱海 | 和 | [山木旅館](http://www.yamakiryokan.co.jp/)<br>食事なしプラン | 7,000円〜/泊      | 24H 貸切あり | レポートによると完備 | [CakePHP温泉部 1](https://web.archive.org/web/20140801055612/http://1-byte.jp/2011/03/03/review_yamaki_in_atami/)<br>[CakePHP温泉部 2](http://hideichi.com/archives/318) |
+| 熱海 | 和 | [山木旅館](http://www.yamakiryokan.co.jp/)<br>30日以上前予約 | 12,000円〜/泊<br>朝夕2食 | 24H 貸切あり | （同上） | （同上） |
+| 伊東 | 和 | [山喜旅館](http://www.ito-yamaki.jp/plan.html)<br>研修・ゼミプラン | 6480円/泊<br>朝夕2食 | 24H 露天なし | 無線LANルータ設置 | [ディノ](http://openlab.dino.co.jp/2008/05/08/235929241.html)<br>[@ryo_katsuma](http://blog.katsuma.tv/2008/11/developers_camp_001.html)<br>[@mirakui](http://blog.mirakui.com/entry/20090427/gasshuku)<br>[IDEA*IDEA 1](http://www.ideaxidea.com/archives/2005/12/post_52.html)<br>[2](http://www.ideaxidea.com/archives/2009/03/devcamp200903.html) |
+| 草津 | 和 | [民宿 美山](http://minsyuku-miyama.com/)                       | 5,092円〜/泊 | あり 露天なし | 1階事務所にルータ1つ |  |
+| 草津 | 和 | [アゼリア](http://www.jalan.net/yad300018/) | 3,703円〜/泊 | あり 露天なし | ルータが1つ |  |
 | 草津 | 和 | [草津温泉 菊水荘](http://kikusuisou.com/)                      | 4,500円〜/泊 | あり 露天なし | [FREESPOT](https://freespot.com/map/tenpo.php?n=7336) |  |
 | 水上 | 洋 | [ペンション木馬](http://www.pension-mokuba.com/plan/index.html)<br>開発合宿プラン | 16,400円/2泊 | あり 露天なし | 充実（プラン詳細参考） | プラン詳細にレポートあり |
 
