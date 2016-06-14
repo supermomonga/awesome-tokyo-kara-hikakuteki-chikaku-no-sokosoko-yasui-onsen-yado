@@ -14,6 +14,7 @@
 | 草津 | 和 | [アゼリア](http://www.jalan.net/yad300018/) | 3,703円〜/泊 | あり 露天なし | ルータが1つ |  |
 | 草津 | 和 | [草津温泉 菊水荘](http://kikusuisou.com/)                      | 4,500円〜/泊 | あり 露天なし | [FREESPOT](https://freespot.com/map/tenpo.php?n=7336) |  |
 | 水上 | 洋 | [ペンション木馬](http://www.pension-mokuba.com/plan/index.html)<br>開発合宿プラン | 16,400円/2泊 | あり 露天なし | 充実（プラン詳細参考） | プラン詳細にレポートあり |
+| 高原 | 和+洋（ふとん3 + ベッド2） | [ヴィラージュ伊豆高原](http://www.hotel-village.jp/izu/)<br>早期割引きプラン (5名) | 値段変動（平日最安：5200円） | 大浴場・露天あり | 全室 無線/有線 LAN | [インフラ新卒研修と社内ISUCONのはなし](http://techlife.cookpad.com/entry/2016/06/14/120000) |
 
 ## 移動所要時間
 
